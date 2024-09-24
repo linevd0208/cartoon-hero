@@ -57,7 +57,7 @@ main a:hover {
     display: flex;
     gap: 100px;
     margin: 20px; 
-    }
+}
 
 .friend {
     flex: 1; 
