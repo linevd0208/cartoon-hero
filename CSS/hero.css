@@ -57,6 +57,7 @@ main a:hover {
     display: flex;
     gap: 100px;
     margin: 20px; 
+    }
 
 .friend {
     flex: 1; 
@@ -70,7 +71,7 @@ main a:hover {
     justify-content: space-between; 
     align-items: center; 
     margin: 20px; 
-
+}
 .world {
     flex: 1; 
     margin: 10px; 
@@ -78,16 +79,21 @@ main a:hover {
 }
 
 footer {
-	margin-to: 60px;
-	padding-top: 20px;
-	padding-bottom: 20px;
-	text-align: center;
-	background-color: #6A282C ;
-	color: white;
+    margin-top: 60px; /* Correction ici */
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    background-color: #6A282C;
+    color: white;
 }
+
 footer a {
-	color: white;
+    color: white;
 }
+
 footer a:hover {
-	color: #BC404C;
+    color: #BC404C;
 }
+
+
+
